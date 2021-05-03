@@ -1,0 +1,11 @@
+C:\Users\Veronez\source\repos\ProjetoPI01\ProjetoPI\bin\Debug\ProjetoPI.exe.config
+C:\Users\Veronez\source\repos\ProjetoPI01\ProjetoPI\bin\Debug\ProjetoPI.exe
+C:\Users\Veronez\source\repos\ProjetoPI01\ProjetoPI\bin\Debug\ProjetoPI.pdb
+C:\Users\Veronez\source\repos\ProjetoPI01\ProjetoPI\obj\Debug\ProjetoPI.csprojAssemblyReference.cache
+C:\Users\Veronez\source\repos\ProjetoPI01\ProjetoPI\obj\Debug\ProjetoPI.Form1.resources
+C:\Users\Veronez\source\repos\ProjetoPI01\ProjetoPI\obj\Debug\ProjetoPI.Properties.Resources.resources
+C:\Users\Veronez\source\repos\ProjetoPI01\ProjetoPI\obj\Debug\ProjetoPI.csproj.GenerateResource.cache
+C:\Users\Veronez\source\repos\ProjetoPI01\ProjetoPI\obj\Debug\ProjetoPI.csproj.CoreCompileInputs.cache
+C:\Users\Veronez\source\repos\ProjetoPI01\ProjetoPI\obj\Debug\ProjetoPI.exe
+C:\Users\Veronez\source\repos\ProjetoPI01\ProjetoPI\obj\Debug\ProjetoPI.pdb
+C:\Users\Veronez\source\repos\ProjetoPI01\ProjetoPI\obj\Debug\ProjetoPI.Form2.resources
